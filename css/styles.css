@@ -56,6 +56,9 @@ i {
 .profile-picture {
     padding-top: 25px;
     padding-bottom: 25px;
+
+    padding-left: 25px;
+    padding-right: 25px;
 }
 .info-box {
     padding-top: 25px;
@@ -75,4 +78,8 @@ i {
 .content-block {
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.index-item {
+    color: inherit;
 }
