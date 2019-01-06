@@ -11,4 +11,26 @@
     margin-top: 75px;
     margin-bottom: 75px;
     margin-left: 75px;
+    background-color: blue;
+}
+
+.profile-picture {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.info-box {
+    padding-top: 25px;
+}
+.social-media {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.icon-block {
+    color: inherit;
+}
+
+i {
+    padding-left: 10px;
+    padding-right: 10px;
 }
