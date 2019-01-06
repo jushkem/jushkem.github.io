@@ -1,3 +1,8 @@
+html, body {
+    background-color: white;
+    height:100vh;
+}
+
 h1, h2 {
     font-weight: lighter;
 }
@@ -11,21 +16,41 @@ i {
     padding-right: 10px;
 }
 
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .img-thumbnail {
     border: 0;
 }
 
 .sidebar-content {
-    margin-top: 25px;
-    margin-left: 25px;
-    margin-right: 25px;
+    background-color: white;
+
+    height:100vh;
+
+    padding-top: 75px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
 }
 
 .main-content {
+    background-color: white;
+
     margin-top: 75px;
-    margin-bottom: 75px;
     margin-left: 75px;
     margin-right: 75px;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+
 }
 
 .profile-picture {
@@ -42,6 +67,9 @@ i {
 
 .icon-block {
     color: inherit;
+}
+
+.content-link {
 }
 
 .content-block {
