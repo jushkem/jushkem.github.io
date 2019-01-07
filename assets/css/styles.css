@@ -60,8 +60,9 @@ i {
     padding-left: 25px;
     padding-right: 25px;
 
-    -webkit-filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
-    filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
+/*    -webkit-filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
+ *   filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
+ */
 }
 
 .info-box {
@@ -71,6 +72,26 @@ i {
 .social-media {
     text-align: center;
     padding-top: 25px;
+}
+
+.fa-github {
+    color: #6e5494;
+}
+
+.fa-envelope {
+    color: #ed9100;
+}
+
+.fa-linkedin-in {
+    color: #0077B5;
+}
+
+.fa-gamepad {
+    color: #50994f;
+}
+
+.fa-youtube {
+    color: #ff0000;
 }
 
 .icon-block {
