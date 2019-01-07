@@ -3,7 +3,7 @@ layout: page
 title: resume
 ---
 
-## resume
+## {{ page.title }}
 
 <object data="resumes/resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="resumes/resume.pdf">
