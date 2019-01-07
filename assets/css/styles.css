@@ -59,10 +59,15 @@ i {
 
     padding-left: 25px;
     padding-right: 25px;
+
+    -webkit-filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
+    filter: contrast(133%) brightness(111%) saturate(0%) grayscale(100%) invert(3%);
 }
+
 .info-box {
     padding-top: 25px;
 }
+
 .social-media {
     text-align: center;
     padding-top: 25px;

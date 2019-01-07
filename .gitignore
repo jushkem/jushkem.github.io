@@ -1,5 +1,6 @@
 # Directories
 .idea/
+_site/
 
 # Files
 .DS_Store

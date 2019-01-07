@@ -1,0 +1,8 @@
+url: http://joshuakim.me
+
+name: joshua kim
+headline: university of virginia '19
+
+github: jushkem
+kramdown:
+  parse_block_html: true
