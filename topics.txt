@@ -1,0 +1,9 @@
+- history:
+  - biblical
+  - korean 
+    - relations with china
+    - relations with japan
+- math
+  - chaos and bifurication
+- computation
+  - theory
