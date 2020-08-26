@@ -7,12 +7,12 @@ html{
 }
 
 body {
-  background-image: url(../img/colored-josh.jpg);
+  background-image: url(../img/bw-josh-sitting.jpg);
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-position: right;
-  background-color: #b7d4c0;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 p {
@@ -26,7 +26,7 @@ p {
 
 .social-link {
   margin: 10px;
-  color: white
+  color: black
 }
 
 .info-box {
